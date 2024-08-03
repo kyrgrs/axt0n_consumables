@@ -2,7 +2,7 @@
 This is a Consumable Item Pack with animations for ox_inventory 
 
 # Dependency
-    [ps-props](https://github.com/Project-Sloth/ps-props/)
+[ps-props](https://github.com/Project-Sloth/ps-props/)
 
 # Installation
     Download ps-props and drop into resources folder and start it
