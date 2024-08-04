@@ -10,4 +10,4 @@ This is a Consumable Item Pack with animations for ox_inventory
     open images folder copy all of the images and paste into ox_inventory/web/images/
     and restart the server
 
-Milshake İmages are missing
+Milkshake Images are missing
