@@ -9,5 +9,3 @@ This is a Consumable Item Pack with animations for ox_inventory
     Open the items.lua and copy all of the items and paste into ox_inventory/data/items.lua
     open images folder copy all of the images and paste into ox_inventory/web/images/
     and restart the server
-
-Milkshake Images are missing
