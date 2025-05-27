@@ -1,4 +1,4 @@
-# Axton Consumables
+# Lotus Consumables
 This is a Consumable Item Pack with animations for ox_inventory 
 
 # Dependency
